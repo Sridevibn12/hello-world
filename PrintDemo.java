@@ -1,14 +1,12 @@
-package prog2;
+package prog3;
 
 public class PrintDemo {
 
-	public static void main(String[] args) 
-	{
-		
-            System.out.print("Line1");
-            
-            System.out.print("Line2");
-	}
+	static public void main(String...args) {
+	System.out.println("Line 1");
+
+	System.out.println("Line 2");
 	
+	}
 
 }
